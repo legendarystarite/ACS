@@ -1,4 +1,16 @@
 [	
+{
+		"RewardType": "Booster",
+		"Code": "Luuy",
+   		"AwardMessage": "Free Potions Bundle!",
+
+		"Data": {
+			"BoosterName": "All",
+			"Potions": 1
+		},
+
+		"ReedemOnce": true
+	},
 	{
 		"RewardType": "Booster",
 		"Code": "Wilco",

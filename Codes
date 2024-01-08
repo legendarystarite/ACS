@@ -38,6 +38,19 @@
 		"ReedemOnce": true
 	},
 
+	{
+		"RewardType": "Currency",
+		"Code": "KingAl",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	},
+
 
 	{
 		"RewardType": "Booster",

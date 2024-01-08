@@ -152,5 +152,41 @@
 		},
 
 		"ReedemOnce": true
+	},
+	{
+		"RewardType": "Currency",
+		"Code": "Luuy",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	},
+	{
+		"RewardType": "Currency",
+		"Code": "Luuy",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	},
+	{
+		"RewardType": "Currency",
+		"Code": "BielBlox",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
 	}
 ]

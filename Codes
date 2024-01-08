@@ -25,7 +25,7 @@
 		"ReedemOnce": true
 	},
 
-{
+	{
 		"RewardType": "Booster",
 		"Code": "KingBlox",
    		"AwardMessage": "Free Potions Bundle!",
@@ -38,33 +38,8 @@
 		"ReedemOnce": true
 	},
 
-  {
-		"RewardType": "Currency",
-		"Code": "Robzi",
-   		"AwardMessage": "Free Daily Spin!",
 
-		"Data": {
-			"Type": "DailySpins",
-			"Amount": 1
-		},
-
-		"ReedemOnce": true
-	},
-
-  {
-		"RewardType": "Currency",
-		"Code": "Robzi",
-   		"AwardMessage": "Free Daily Spin!",
-
-		"Data": {
-			"Type": "DailySpins",
-			"Amount": 1
-		},
-
-		"ReedemOnce": true
-	},
-
-{
+	{
 		"RewardType": "Booster",
 		"Code": "PliqueGames",
    		"AwardMessage": "Free Potions Bundle!",
@@ -77,7 +52,7 @@
 		"ReedemOnce": true
 	},
 
-  {
+ 	 {
 		"RewardType": "Currency",
 		"Code": "Xmarcelo",
    		"AwardMessage": "Free Daily Spin!",
@@ -90,7 +65,7 @@
 		"ReedemOnce": true
 	},
 
-{
+	{
 		"RewardType": "Booster",
 		"Code": "BielC",
    		"AwardMessage": "Free Potions Bundle!",
@@ -103,7 +78,7 @@
 		"ReedemOnce": true
 	},
 
-{
+	{
 		"RewardType": "Currency",
 		"Code": "PiripTV",
    		"AwardMessage": "Free Daily Spin!",
@@ -116,7 +91,7 @@
 		"ReedemOnce": true
 	},
 
-{
+	{
 		"RewardType": "Booster",
 		"Code": "xTurbo",
    		"AwardMessage": "Free Potions Bundle!",
@@ -129,7 +104,7 @@
 		"ReedemOnce": true
 	},
 
-  {
+ 	 {
 		"RewardType": "Booster",
 		"Code": "Jeffblox",
    		"AwardMessage": "Free Potions Bundle!",

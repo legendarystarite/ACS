@@ -1,5 +1,29 @@
 [
 {
+		"RewardType": "Currency",
+		"Code": "Roblerom",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	},
+{
+		"RewardType": "Currency",
+		"Code": "ElMagnum",
+   		"AwardMessage": "Free Daily Spin!",
+
+		"Data": {
+			"Type": "DailySpins",
+			"Amount": 1
+		},
+
+		"ReedemOnce": true
+	},
+{
 		"RewardType": "Booster",
 		"Code": "BlBlox",
    		"AwardMessage": "Free Potions Bundle!",

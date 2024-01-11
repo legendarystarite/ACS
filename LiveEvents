@@ -1,19 +1,19 @@
 {
     "Luck": {
-        "Active": false,
+        "Active": true,
         "Multip": 2,
         "UseBoost": true,
-        "Boost": 45
+        "Boost": 95
     },
     "Strength": {
-        "Active": false,
-        "Multip": 5,
+        "Active": true,
+        "Multip": 5000,
         "UseBoost": false,
         "Boost": 0
     },
     "Trophies": {
-        "Active": false,
-        "Multip": 2,
+        "Active": true,
+        "Multip": 2000,
         "UseBoost": false,
         "Boost": 0
     },

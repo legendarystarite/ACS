@@ -1,32 +1,32 @@
 {
     "Luck": {
-        "Active": true
+        "Active": true,
         "Multip": 10000,
         "UseBoost": true,
-        "Boost": 30,
+        "Boost": 30
     },
     "Strength": {
-        "Active": true
+        "Active": true,
         "Multip": 100000,
         "UseBoost": false,
-        "Boost": 0,
+        "Boost": 0
     },
     "Trophies": {
-        "Active": true
+        "Active": true,
         "Multip": 1000,
         "UseBoost": false,
-        "Boost": 0,
+        "Boost": 0
     },
     "Damage": {
-        "Active": false
+        "Active": false,
         "Multip": 1.5,
         "UseBoost": false,
-        "Boost": 0,
+        "Boost": 0
     },
     "Discount": {
-        "Active": false
+        "Active": false,
         "Multip": 2,
         "UseBoost": false,
-        "Boost": 0,
+        "Boost": 0
     }
 }

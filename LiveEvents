@@ -13,7 +13,7 @@
     },
     "Trophies": {
         "Active": false,
-        "Multip": 2,
+        "Multip": 1,
         "UseBoost": false,
         "Boost": 0
     },

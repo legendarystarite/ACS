@@ -2,7 +2,7 @@
     "Luck": {
         "Active": true,
         "Multip": 2,
-        "UseBoost": true,
+        "UseBoost": false,
         "Boost": 45
     },
     "Strength": {

@@ -1,6 +1,6 @@
 {
     "Luck": {
-        "Active": false,
+        "Active": true,
         "Multip": 2,
         "UseBoost": true,
         "Boost": 45

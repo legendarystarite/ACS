@@ -23,6 +23,12 @@
         "UseBoost": false,
         "Boost": 0
     },
+    "EventCurrency": {
+        "Active": false,
+        "Multip": 1.5,
+        "UseBoost": false,
+        "Boost": 0
+    },
     "Discount": {
         "Active": false,
         "Multip": 2,

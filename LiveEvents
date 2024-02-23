@@ -24,9 +24,9 @@
         "Boost": 0
     },
     "EventCurrency": {
-        "Active": false,
+        "Active": true,
         "EmojiCode": "✴",
-        "Multip": 1.5,
+        "Multip": 2,
         "UseBoost": false,
         "Boost": 0
     },

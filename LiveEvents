@@ -25,7 +25,7 @@
     },
     "EventCurrency": {
         "Active": true,
-        "EmojiCode": "✴",
+        "EmojiCode": "[Event Currency]",
         "Multip": 2,
         "UseBoost": false,
         "Boost": 0

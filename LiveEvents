@@ -1,6 +1,6 @@
 {
     "Luck": {
-        "Active": false,
+        "Active": true,
         "Multip": 2,
         "UseBoost": false,
         "Boost": 45
@@ -24,7 +24,7 @@
         "Boost": 0
     },
     "EventCurrency": {
-        "Active": false,
+        "Active": true,
         "EmojiCode": "[Event Currency]",
         "Multip": 2,
         "UseBoost": false,

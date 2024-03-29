@@ -1,8 +1,9 @@
 {
     "UpdateVersion": "Update 10!",
-    "UpdateName": "UPDATE NAME",
+    "UpdateName": "⚔️WEAPON FUSE",
     "UpdateContent": {
-        "1": "Stuff 1",
+        "1": "⚔️ NEW Weapon Fusing",
+        "1.5": "⭐ NEW Shards currency",
         "2": "Content Texty img = rbxassetid://15034056713"
     }
 }

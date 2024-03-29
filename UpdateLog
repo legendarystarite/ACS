@@ -1,10 +1,8 @@
-[
-    {
-        "UpdateVersion": "Uppdate 10!",
-        "UpdateName": "UPDATE NAME",
-        "UpdateContent": {
-            "1": "Stuff 1",
-            "2": "Content Texty img = ImageId"
-        }
+{
+    "UpdateVersion": "Uppdate 10!",
+    "UpdateName": "UPDATE NAME",
+    "UpdateContent": {
+        "1": "Stuff 1",
+        "2": "Content Texty img = rbxassetid://15034056713"
     }
-]
+}

@@ -1,1 +1,10 @@
-"🐎 NEW Mounts\n- Increase your movement speed by equiping mounts\n- Explore Very cool and funny looking mounts and amaze your friends!\n\n🎡 New Mount Reward on Daily Spin and Legendary Spin\n\n🎫 New mount Reward on Season (Level 20) Basic Prizes\n\n🦸 New mount drop from Genos on world 3 (SUPER RARE)\n\n🛍️ New mounts on shop\n\n♻️ Trade or sell your mounts on your booth"
+[
+    {
+        "UpdateVersion": "Uppdate 10!",
+        "UpdateName": "UPDATE NAME",
+        "UpdateContent": {
+            "1": "Stuff 1",
+            "2": "Stuff 2"
+        }
+    }
+]

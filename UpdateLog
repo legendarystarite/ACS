@@ -1,5 +1,5 @@
 {
-    "UpdateVersion": "Update 10!",
+    "UpdateVersion": "Update 12!",
     "UpdateName": "⚔️WEAPON FUSE",
     "UpdateContent": {
         "1": "⚔️ NEW Weapon Fusing!",
@@ -7,6 +7,7 @@
          "3": "🌈 Fuse 2 Golden Swords Into Rainbow!",
         "4": "⭐ NEW Shards Currency",
           "5": "😈 Shards Drops From Bosses!",
-        "6": "Go-To Weapons UI To Fuse! img = rbxassetid://16933679876"
+        "6": "Go-To Weapons UI To Fuse! img = rbxassetid://16933679876",
+        "7": "👑 VIP PLUS"
     }
 }

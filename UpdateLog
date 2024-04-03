@@ -1,13 +1,12 @@
+
 {
-    "UpdateVersion": "Update 12!",
-    "UpdateName": "⚔️WEAPON FUSE",
+    "UpdateVersion": "Update 12.5!",
+    "UpdateName": "🔥Trade Plaza Booths!",
     "UpdateContent": {
-        "1": "⚔️ NEW Weapon Fusing!",
-        "2": "🥇 Fuse 2 Normals Swords Into Golden!",
-         "3": "🌈 Fuse 2 Golden Swords Into Rainbow!",
-        "4": "⭐ NEW Shards Currency",
-          "5": "😈 Shards Drops From Bosses!",
-        "6": "Go-To Weapons UI To Fuse! img = rbxassetid://16933679876",
-        "7": "👑 VIP PLUS"
+        "1": "🔥 Customize Your Booths!",
+        "2": "👀 Two Brand New Booths! Flaming & JOJO Booth! img = rbxassetid://16988599803",
+         "3": "😻 Obtain From Trade Plaza Shop OR Playtime Rewards!",
+        "4": "😈 New Boss Event Rewards!!",
+        "5": "New Sword & Rainbow Pet! img = rbxassetid://16988599449",
     }
 }

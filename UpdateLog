@@ -1,12 +1,11 @@
 {
-    "UpdateVersion": "Update 18!",
-    "UpdateName": "🎩 BOSS EVENT!!",
+    "UpdateVersion": "Update 19!",
+    "UpdateName": "😈 COLOSSAL BOSS!",
     "UpdateContent": {
-        "1": " 🎩 Brand New EVENT BOSS!! img = rbxassetid://17448489152",
-        "2": " 🤩 All fresh products to purchase on new Event Shop!",
-         "3": " 🎁 Free Gifts have been rebalanced (first row)!",
-        "4": " 🥚 Titan Egg is now purchasable with Titan Coins! img = rbxassetid://17448489584",
-        "5": " ❗ Some features are available after certain worlds now",
-        "6": "Trade Plaza (world 5), Event Boss (World 4), Titan Hunt (World 3)"
+        "1": "👀 Brand new colossal boss in titan hunt area! img = rbxassetid://17524025462",
+        "2": " ⏰  Spawns every 10min!",
+         "3": "😱 EXTREMELY HIGH HP!!",
+        "4": "🥚 One titan egg guaranteed drop!",
+        "5": "🐶 Changes to drop #2 RAREST PET OF GAME!"
     }
 }

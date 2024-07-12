@@ -6,7 +6,7 @@
         "Boost": 45
     },
     "Strength": {
-        "Active": false,
+        "Active": true,
         "Multip": 2,
         "UseBoost": false,
         "Boost": 0
